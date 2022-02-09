@@ -3,17 +3,18 @@
   "workspaces": [
     "workspaces/*"
   ],
-  "name": "rocketchat",
-  "description": "Official OSX, Windows, and Linux Desktop Clients for Rocket.Chat",
+  "name": "a-message",
+  "description": "Official OSX, Windows, and Linux Desktop Clients for A-Message",
   "version": "3.7.7",
   "author": "Rocket.Chat Support <support@rocket.chat>",
   "copyright": "© 2016-2021, Rocket.Chat",
-  "homepage": "https://rocket.chat",
+  "homepage": "https://chat.altisss.vn",
   "license": "MIT",
   "keywords": [
     "rocketchat",
     "desktop",
-    "electron"
+    "electron",
+    "amessage"
   ],
   "repository": {
     "type": "git",
@@ -128,5 +129,5 @@
     "node": ">=12.8.x",
     "yarn": ">=1.22.x"
   },
-  "productName": "Rocket.Chat"
+  "productName": "A-Message"
 }
