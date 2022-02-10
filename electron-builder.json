@@ -99,8 +99,8 @@
   },
   "appx": {
     "backgroundColor": "#2f343d",
-    "displayName": "Rocket.Chat",
-    "publisherDisplayName": "Rocket.Chat",
+    "displayName": "A-Message",
+    "publisherDisplayName": "A-Message",
     "languages": [
       "en-US",
       "en-GB",
@@ -118,7 +118,7 @@
     "executableName": "amessage-desktop",
     "category": "GNOME;GTK;Network;InstantMessaging",
     "desktop": {
-      "StartupWMClass": "Rocket.Chat",
+      "StartupWMClass": "A-Message",
       "MimeType": "x-scheme-handler/amessage"
     },
     "artifactName": "amessage-${version}.${ext}"
@@ -154,7 +154,7 @@
   "publish": [
     {
       "provider": "github",
-      "owner": "RocketChat",
+      "owner": "altisss0806",
       "repo": "Rocket.Chat.Electron",
       "vPrefixedTagName": false
     }
